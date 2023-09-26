@@ -13,7 +13,7 @@ int main(){
     } else if ((m >= 50) && (m < 60)){
         printf("Boomer");
     } else if ((m >= 40) && (m < 50)){
-        printf("Cunt");
+        printf("Join a cult, cult");
     } else {
         printf("Dont study");
     }
